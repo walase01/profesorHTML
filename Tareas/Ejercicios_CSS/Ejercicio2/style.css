@@ -1,0 +1,96 @@
+#titulo{
+
+    color: cadetblue;
+}
+
+p strong{
+
+    color: crimson;
+
+}
+
+p .destacado{
+
+    color: gold;
+
+}
+
+#subtitulo{
+
+    color: mediumblue;
+
+}
+
+p a{
+    
+    color: rgb(220, 20, 20);
+}
+
+p a em{
+
+    color: darkblue;
+}
+
+p .especial{
+
+    color: darkorchid;
+
+}
+
+table caption{
+
+    color: mediumblue;
+
+}
+
+table thead tr th{
+
+    color: orange;
+
+}
+
+table tfoot tr th{
+
+    color: red;
+
+}
+
+table tbody tr .especial{
+
+    color: orange;
+
+}
+
+table tbody tr td{
+
+    color: green;    
+
+}
+
+table tbody tr td strong{
+
+    color: orange;
+
+}
+
+table tbody tr th {
+
+    color: red;
+
+}
+
+#adicional {
+    color: rgb(91, 128, 54);
+}
+
+#adicional p #especial{
+
+    color: darkmagenta;
+
+}
+
+#adicional p a{
+    color: green;
+}
+
+table, tr, th, td {border:1px solid #000; border-collapse:collapse; padding:5px;}
