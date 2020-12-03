@@ -9,6 +9,7 @@ img{border:none}
     padding: 1em;
 }
 #menu{
+    background-image: url(Logo.gif);
     border-bottom: 1px solid #004C99;
     clear:both;
     padding: 0.5em;
@@ -52,6 +53,7 @@ img{
 
     margin-top: 1em;
     border:1px dashed #CC6600;
+    background-color: #FFF6CD;
 
 }
 
@@ -70,6 +72,21 @@ img{
 
     border: 1px solid #CC6600;
 
+}
+#cabecera h1{
+
+    background-image: url(fondo_Menu.gif);
+
+}
+#noticias,#pie{
+
+    background-color: #F8F8F8;
+}
+
+#secundario h2{
+
+    background-color: #DB905C;
+    padding: 0.2em;
 }
 
 

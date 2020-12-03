@@ -9,6 +9,7 @@ img{border:none}
     padding: 1em;
 }
 #menu{
+    background-image: none;
     border-bottom: 1px solid #004C99;
     clear:both;
     padding: 0.5em;
@@ -82,4 +83,10 @@ h2 #secundario{
 
     background-color: #DB905C;
     padding: 0.2em;
+}
+
+h1 #cabecera{
+
+    background-image: none;
+
 }
